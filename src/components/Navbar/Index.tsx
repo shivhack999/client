@@ -17,7 +17,7 @@ const Index = () => {
     searchBtn:{
       backgroundColor:btnHoverd?'transparent':'#FF693A',
       borderColor:btnHoverd?'white':'transparent',
-  }
+    }
   }
   return (
     <Navbar expand="lg" className='navbarBg'>
